@@ -1,0 +1,65 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ali Khan Production</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Poppins', sans-serif; line-height: 1.6; color: #333; background: #f8f9fa; }
+    header { background: #000; color: #fff; padding: 2rem 1rem; text-align: center; }
+    header h1 { font-size: 2.5rem; }
+    nav { text-align: center; background: #111; padding: 0.5rem 0; }
+    nav a { color: #fff; text-decoration: none; margin: 0 1rem; font-weight: 500; }
+    section { padding: 2rem 1rem; max-width: 1000px; margin: auto; }
+    .intro { text-align: center; }
+    .projects { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; }
+    .card { background: #fff; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+    footer { text-align: center; padding: 2rem 1rem; background: #000; color: #aaa; font-size: 0.9rem; }
+    .contact { text-align: center; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Ali Khan Production</h1>
+    <p>YouTuber | Director | Producer</p>
+  </header>  <nav>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+  </nav>  <section id="about">
+    <h2>About Me</h2>
+    <p class="intro">I am Ali Khan Joiya from Bahawalnagar. I run the YouTube channel <strong>Ali Khan Production</strong> creating comedy, drama, and documentary content with a unique Punjabi touch. Let’s entertain and inspire together!</p>
+  </section>  <section id="projects">
+    <h2>Recent Projects</h2>
+    <div class="projects">
+      <div class="card">
+        <h3>Comedy Drama: "Kithe Phas Gaye O Loko"</h3>
+        <p>A hilarious Punjabi situational film full of twists and laughter.</p>
+      </div>
+      <div class="card">
+        <h3>Documentary: Gaza - Haqeeqat Kya Hai?</h3>
+        <p>A story-style Urdu documentary revealing facts about the Gaza-Israel conflict.</p>
+      </div>
+      <div class="card">
+        <h3>Action Thriller: "Aakhri Rukh"</h3>
+        <p>Police investigation story with love, thrill, and action.</p>
+      </div>
+    </div>
+  </section>  <section id="services">
+    <h2>What I Do</h2>
+    <ul>
+      <li>Script Writing & Directing</li>
+      <li>YouTube Video Production</li>
+      <li>Documentary & Storytelling</li>
+      <li>Editing & Social Media Content</li>
+    </ul>
+  </section>  <section id="contact">
+    <h2>Contact Me</h2>
+    <p class="contact">For collaboration, projects, or ideas: <br><strong>Email:</strong> alikhanproduction@gmail.com</p>
+  </section>  <footer>
+    <p>&copy; 2025 Ali Khan Production. All rights reserved.</p>
+  </footer>
+</body>
+</html>
