@@ -1,5 +1,6 @@
 # Ali Khan Production
-
+Ceo Ali Haider Khan Joyia 
+Director Producer Music Creator Content Creator 
 Welcome to the official website of Ali Khan Production! I create comedy, drama, and documentary videos for YouTube with a focus on Pakistani Punjabi culture.
 
 ## Projects
